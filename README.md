@@ -1,2 +1,2 @@
 # js-template
-A template for my projects
+A template for my standard js projects
